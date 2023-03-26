@@ -6,10 +6,9 @@
 - CSS
 - JavaScript
 
-Create and Learning Zombie Game Using HTML, CSS, and JavaScript
-please help and support so that I can be even more enthusiastic about uploading other interesting projects for free by following
+Create and Learning Zombie Game. Please help and support so that I can be even more enthusiastic about uploading other interesting projects for free by following
 [My Social Media](https://www.instagram.com/wyesptr._).
-That is all and thank you
+That is all and thank you.
 
 
 ### Zombie Game Review
